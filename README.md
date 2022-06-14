@@ -6,3 +6,4 @@
 - ReactJS
 - NodeJS
 - React native
+- TypeScript
