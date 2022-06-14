@@ -1,9 +1,11 @@
-# NLW-Feedbacks-web
+# NLW-Feedbacks
 
-# Tecnologias
-- Vite
-- TailWindCSS
+ Esse projeto foi desenvolvido com as seguintes tecnologias:
+
 - ReactJS
 - NodeJS
 - React native
 - TypeScript
+
+- TailWindCSS
+- Vite
