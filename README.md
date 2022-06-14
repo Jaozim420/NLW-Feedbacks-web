@@ -3,7 +3,6 @@
  # ⚙️ Tecnologias:
 - ReactJS
 - NodeJS
-- React native
 - TypeScript
 
 # 📚 Bibliotecas
