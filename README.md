@@ -15,3 +15,11 @@
 ```bash
 $ git clone git@github.com:Jaozim420/NLW-Feedbacks-web.git
 ```
+```bash
+# Install Dependencies
+$ yarn
+# Run Aplication
+$ yarn run dev
+# Go to
+$ http://localhost:3000/
+```
