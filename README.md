@@ -10,3 +10,8 @@
 # 📚 frameworks:
 - [tailwindcss](https://tailwindcss.com/)
 - [phosphoricons](https://phosphoricons.com/)
+
+# Installing:
+```bash
+$ git clone git@github.com:Jaozim420/NLW-Feedbacks-web.git
+```
